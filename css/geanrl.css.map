@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../sass/black/geanrl.scss",
+        "../sass/black/footer.scss",
+        "../sass/black/header.scss"
+    ],
+    "names": [],
+    "file": "geanrl.css"
+}
